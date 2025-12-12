@@ -1,3 +1,4 @@
+.plastic
 Library
 library
 Temp
@@ -8,6 +9,8 @@ Build
 build
 Builds
 builds
+UserSettings
+usersettings
 MemoryCaptures
 memorycaptures
 Logs
@@ -40,9 +43,6 @@ ExportedObj
 *.mdb
 *.opendb
 *.VC.db
-*.pidb.meta
-*.pdb.meta
-*.mdb.meta
 sysinfo.txt
 crashlytics-build.properties
 *.apk
